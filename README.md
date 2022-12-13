@@ -9,10 +9,9 @@
 <p/><br/><p/><br/>
 <h1 align="left"  >Hi 👋, I'm Soo Yeon</h1>
 <h3 align="left">Back-End Developer & Data Analyst</h3>
-<p/><br/>
-
-<p/><br/><p/><br/>
-
+<p/><br/><p/><br/><p/>
+<hr>
+<br/>
 <h2> 💻Tech Stack</h2>
         
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -23,7 +22,8 @@
 
 
 <h2> 📫 Contact</h2>
-<a href="mailto:leso0326@gmail.com"><img src="https://img.shields.io/badge/gmail-%23E34F26.svg?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:leso0326@gmail.com"></a>
+<a href="mailto:leso0326@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23E34F26.svg?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:leso0326@gmail.com"></a>
+<a href="mailto:peanut326@naver.com"><img src="https://img.shields.io/badge/NaverMail-%8099FF99.svg?style=for-the-badge&logo=naver&logoColor=white&link=mailto:peanut326@naver.com"></a>
 <p/><br/>
 
 
@@ -53,7 +53,6 @@
         
 <p/><br/>
 <p/><br/><p/><br/>
-<p/><br/>
         
         
         
@@ -69,5 +68,4 @@
   <img src="https://i.ytimg.com/vi/zJN5Mz9bWW8/maxresdefault_live.jpg" width="100%" height="50px">
     </body>
     </html>
-    
     
