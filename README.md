@@ -45,11 +45,16 @@
 
 
 <h2> 📋Projects</h2> 
-        <div class="leftpro" align="left" style="background-color:black;width:70%;height:50px;">
-            <a href="https://github.com/lesoo/CapOff/blob/main/README.md"><figure><img src="/capoff_logo.png" width="400px" ><figcaption>Cap-off</figcaption></figure></a>
+        <div class="leftpro" align="left" style="background-color:black;width:70%;height:50px;display:block;">
+            <a href="https://github.com/lesoo/CapOff/blob/main/README.md"><figure><img src="/capoff_logo.png" width="350px" style="display:block;" ><figcaption>Cap-off</figcaption></figure></a>
             jhkljhk
         </div>
-        <div class="rightpro" align="right">
+        <div class="leftpro" align="left" style="background-color:black;width:70%;height:50px;display:block;">
+            <a href="https://github.com/lesoo/CapOff/blob/main/README.md"><figure><img src="/capoff_logo.png" width="350px" style="display:block;" ><figcaption>Cap-off</figcaption></figure></a>
+            jhkljhk
+        </div>
+        
+        
         
 <p/><br/>
 <p/><br/><p/><br/>
