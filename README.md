@@ -11,7 +11,7 @@
 
 
 # 📫 Contact
-<a href="mailto:leso0326@gmail.com"><img src="https://img.shields.io/badge/gmail-%23E34F26.svg?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:leso0326@gmail.com" style="max-width:100%></a>
+<a href="mailto:leso0326@gmail.com"><img src="https://img.shields.io/badge/gmail-%23E34F26.svg?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:leso0326@gmail.com"></a>
 
 
 <p align="left">
