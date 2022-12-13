@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soo Yeon</h1>
-<h3 align="center">Back-End Developer</h3>
+<h3 align="center">Back-End Developer & Data Analyst</h3>
 
 
 
