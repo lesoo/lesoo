@@ -1,3 +1,8 @@
+<div id="no1" style="padding:50px">
+
+
+
+
 <h1 align="center">Hi 👋, I'm Soo Yeon</h1>
 <h3 align="center">Back-End Developer & Data Analyst</h3>
 
@@ -28,4 +33,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=lesoo&icon=8&color=12)](https://visitcount.itsvg.in)
+  </div>
 
