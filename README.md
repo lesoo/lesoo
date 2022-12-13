@@ -46,7 +46,7 @@
 
 <h2> 📋Projects</h2> 
         <div style="background-color:black;width:70%;height:50px;">
-            <a href
+            <a href="https://github.com/lesoo/CapOff/blob/main/README.md"><img src="#"></a>
         </div>
         
 <p/><br/>
