@@ -2,11 +2,10 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <style type="text/css"></style>
     </head>
     <body>
         <img src="https://i.ytimg.com/vi/zJN5Mz9bWW8/maxresdefault_live.jpg" width="100%" height="50px"></img>
-<div id="no1" align="center" style="background-color:red">
+<div id="no1" align="center" style="background-color:red;height:100px;">
 
 
 
