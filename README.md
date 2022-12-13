@@ -11,7 +11,7 @@
 
 
 # 📫 Contact
-![gmail](https://img.shields.io/badge/gmail-%23E34F26.svg?style=for-the-badge&logo=gmail&logoColor=white)
+<a href="malito:leso0326@gmail.com"><img src="https://img.shields.io/badge/gmail-%23E34F26.svg?style=for-the-badge&logo=gmail&logoColor=white&link=malito:leso0326@gmail.com"></a>
 
 
 <p align="left">
