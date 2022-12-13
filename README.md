@@ -3,17 +3,12 @@
     <head>
         <meta charset="utf-8">
     </head>
-    <body>
-        <div id="no1" align="center" >
+    <body >
+        <div id="no1" align="left" >
         <img src="https://i.ytimg.com/vi/zJN5Mz9bWW8/maxresdefault_live.jpg" width="100%" height="50px"></img>
-
-
-
-
 <p/><br/><p/><br/>
-
-<h1 align="center" >Hi 👋, I'm Soo Yeon</h1>
-<h3 align="center">Back-End Developer & Data Analyst</h3>
+<h1 align="left"  >Hi 👋, I'm Soo Yeon</h1>
+<h3 align="left">Back-End Developer & Data Analyst</h3>
 <p/><br/>
 
 <p/><br/><p/><br/>
