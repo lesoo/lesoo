@@ -45,9 +45,11 @@
 
 
 <h2> 📋Projects</h2> 
-        <div style="background-color:black;width:70%;height:50px;">
-            <a href="https://github.com/lesoo/CapOff/blob/main/README.md"><img src="#"></a>
+        <div class="leftpro" align="left" style="background-color:black;width:70%;height:50px;">
+            <a href="https://github.com/lesoo/CapOff/blob/main/README.md"><figure><img src="/capoff_logo.png" width="400px" ><figcaption>Cap-off</figcaption></figure></a>
+            jhkljhk
         </div>
+        <div class="rightpro" align="right">
         
 <p/><br/>
 <p/><br/><p/><br/>
