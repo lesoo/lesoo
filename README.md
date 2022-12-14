@@ -49,7 +49,7 @@
                 <td>jhkljhk</td></tr>
             <tr><td>
         <div  align="left" style="background-color:black;width:70%;height:50px;display:block;">
-            <a href="https://github.com/lesoo/Run10/blob/main/README.md"><img src="../Run10/img/10_1.png" width="350px" style="display:block;" ></a>   
+            <a href="https://github.com/lesoo/Run10/blob/main/README.md"><img src="/10_player.png" width="350px" style="display:block;" ></a>   
                 </div></td>
                 <td>run10</td></tr>
             </table>
