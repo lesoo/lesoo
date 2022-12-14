@@ -40,20 +40,6 @@
     <p/><br/>
 
 
-<h2> 📋Projects</h2> 
-        <table style="border:1px solid white;">
-            <tr><td>
-        <div align="left" style="background-color:black;width:70%;height:50px;display:block;">
-            <a href="https://github.com/lesoo/CapOff/blob/main/README.md"><img src="/capoff_logo.png" width="350px" style="display:block;" ></a>
-        </div>
-                </td>
-                <td>jhkljhk</td></tr>
-            <tr><td>
-        <div  align="left" style="background-color:black;width:70%;height:50px;display:block;">
-            <a href="https://github.com/lesoo/Run10/blob/main/README.md"><img src="/10_player.PNG" width="350px" style="display:block;" ></a>   
-                </div></td>
-                <td>run10</td></tr>
-            </table>
 <p/><br/><p/><br/><p/><p/><br/><p/><br/><p/>
         
 <h2> ✨Others</h2>   
