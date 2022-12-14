@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <meta charset="utf-8">
+        <meta charset="utf-8"><style>table{border:1px solid white;}</style>
     </head>
     <body >
         <div id="no1" align="left" >
@@ -40,7 +40,7 @@
 
 
 <h2> 📋Projects</h2> 
-        <table style="border:0px;">
+        <table style="border:1px solid white;">
             <tr><td>
         <div align="left" style="background-color:black;width:70%;height:50px;display:block;">
             <a href="https://github.com/lesoo/CapOff/blob/main/README.md"><img src="/capoff_logo.png" width="350px" style="display:block;" ></a>
