@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <meta charset="utf-8"><style>table{border:1px solid white;}</style>
+        <meta charset="utf-8">
     </head>
     <body >
         <div id="no1" align="left" >
