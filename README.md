@@ -40,14 +40,20 @@
 
 
 <h2> 📋Projects</h2> 
-        <div class="leftpro" align="left" style="background-color:black;width:70%;height:50px;display:block;">
-            <a href="https://github.com/lesoo/CapOff/blob/main/README.md"><figure><img src="/capoff_logo.png" width="350px" style="display:block;" ><figcaption>Cap-off</figcaption></figure></a>
-            jhkljhk
+        <table style="border:0px;">
+            <tr><td>
+        <div align="left" style="background-color:black;width:70%;height:50px;display:block;">
+            <a href="https://github.com/lesoo/CapOff/blob/main/README.md"><img src="/capoff_logo.png" width="350px" style="display:block;" ></a>
         </div>
-        <div class="leftpro" align="left" style="background-color:black;width:70%;height:50px;display:block;">
-            <a href="https://github.com/lesoo/CapOff/blob/main/README.md"><figure><img src="/capoff_logo.png" width="350px" style="display:block;" ><figcaption>Cap-off</figcaption></figure></a>
-            jhkljhk
-        </div>
+                </td>
+                <td>jhkljhk</td></tr>
+            
+            <tr><td>
+        <div  align="left" style="background-color:black;width:70%;height:50px;display:block;">
+            <a href="https://github.com/lesoo/CapOff/blob/main/README.md"><img src="/capoff_logo.png" width="350px" style="display:block;" ></a>   
+                </div></td>
+                <td>run10</td></tr>
+            </table>
 <p/><br/><p/><br/><p/><p/><br/><p/><br/><p/>
         
 <h2> ✨Others</h2>   
